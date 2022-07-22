@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Potato",
+      "price": 45,
+      "info": "Good for Health",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN8hODwMLGznvnsFIjpZKnI68nvld4AOjV-w&usqp=CAU",
+      "qty": 25,
+      "id": "D6BNdWnHI"
+    },
+    {
+      "name": "Cabbage",
+      "price": 16,
+      "qty": 35,
+      "info": "Good for Health",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3a6m4IOj72zehDY2sD1DYZLwxdsNjbHvMzw&usqp=CAU",
+      "id": "TVobxeKbI"
+    },
+    {
+      "name": "Apple Red",
+      "price": "94",
+      "info": "Good for Health",
+      "imageUrl": "https://www.seekpng.com/png/detail/476-4766453_apple-fruit-usa-red-delicious-apple.png",
+      "qty": "55",
+      "id": "zw5XMKF"
+    },
+    {
+      "name": "Custard Apple",
+      "price": "38",
+      "info": "",
+      "imageUrl": "https://cdn.britannica.com/95/126995-050-101B8B8D/Sweetsop.jpg",
+      "qty": "55",
+      "id": "_qFJUyW"
+    }
+  ]
+}
